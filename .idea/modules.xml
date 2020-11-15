@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SCAuto.iml" filepath="$PROJECT_DIR$/.idea/SCAuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TagBuddy.iml" filepath="$PROJECT_DIR$/.idea/TagBuddy.iml" />
     </modules>
   </component>
 </project>
